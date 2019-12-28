@@ -1,1 +1,2 @@
-hello toi la chuc nang moi
+if(1=2)
+a=5;
